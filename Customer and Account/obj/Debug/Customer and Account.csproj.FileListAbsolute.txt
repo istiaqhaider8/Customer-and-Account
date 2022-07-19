@@ -1,0 +1,9 @@
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\bin\Debug\Customer and Account.exe.config
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\bin\Debug\Customer and Account.exe
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\bin\Debug\Customer and Account.pdb
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\obj\Debug\Customer_and_Account.Form1.resources
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\obj\Debug\Customer_and_Account.Properties.Resources.resources
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\obj\Debug\Customer and Account.csproj.GenerateResource.cache
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\obj\Debug\Customer and Account.csproj.CoreCompileInputs.cache
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\obj\Debug\Customer and Account.exe
+C:\Users\Istiaq\source\repos\Customer and Account\Customer and Account\obj\Debug\Customer and Account.pdb
